@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <!--  Common Used  -->
+    <string name="app_name">璀璨记忆的数字织卷</string>
+    <string name="app_agree">同意约定</string>
+    <string name="app_disagree">拒绝</string>
+    <!--  Wizard Screen  -->
+    <string name="wizard_title">欢迎使用璀璨记忆的数字织卷</string>
+    <string name="wizard_tip">本软件系通过提取论坛中的数据资源并通过技术手段重新整合并呈现出来的工具，其用途因仅限定于服务特定内容的制作。在使用过程中，请尊重他人的数据权利，依法合规合理使用，不得将本软件及其附带的数据集用于任何商业目的。</string>
+    <string name="wizard_right">你始终没有这些数据的所有权！且本软件不含任何担保，任何下载、安装、使用的行为均系自愿行为，由此产生的法律责任与开发者无关。</string>
+    <string name="wizard_special">特别提醒</string>
+    <string name="wizard_special_exp">除本软件的数据集外，本软件及其副本系内部资料。本软件及其副本、数据集禁止向无关人员传阅！</string>
+    <!--  Account Screen  -->
+    <string name="account_title">葫芦侠账号</string>
+    <string name="account_exp">我们需要获取你的访问KEY以便进行帖子详细数据的获取。</string>
+    <string name="account_privacy">我们尊重你的隐私</string>
+    <string name="account_privacy_exp">你的数据将在本地处理，我们不会将其上传到任何第三方服务器。</string>
+    <string name="account_name">绑定邮箱</string>
+    <string name="account_password">登录密码</string>
+    <string name="account_login">检查联通性</string>
+    <string name="account_login_failed">登录失败，请检查账号密码或网络连接。</string>
+</resources>
